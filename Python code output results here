@@ -1,0 +1,33 @@
+Python 3.13.1 (tags/v3.13.1:0671451, Dec  3 2024, 19:06:28) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:/Users/Lokesh/AppData/Local/Programs/Python/Python313/Pacticaldemo.py
+Enter Radius:2
+Area: 12.57, Perimeter: 12.57
+Enter number of fibo:10
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+Enter Num1 space Num2:36 60
+12
+Enter Number:6
+Not Prime
+Enter value:5
+55
+Enter multiple numbers with space:34 23 23
+80
+Enter multiple numbers with space:34 23 23 12 
+34
+Enter string name:lokjfsdhf dfase
+Not a Palindrome
+Enter list of string:lo sjhi sdhyf
+List: ['lo', 'sjhi', 'sdhyf']
+Enter multi integers with spaces:364 367 226 23
+4 [23, 226, 367, 364] [364, 367, 226, 23] []
