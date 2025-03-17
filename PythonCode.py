@@ -8,9 +8,8 @@ a, b, n = 0, 1, int(input("Enter number of fibo:"))
 for _ in range(n): print(a); a, b = b, a + b
 
 #3. Gcd of two numbers
-a, b = map(int, input("Enter Num1 space Num2:").split()) 
-while b: a, b = b, a % b 
-print(a)
+import math
+print(math.gcd(30,60))
 
 #4. Valid Prime number
 n = int(input("Enter Number:"))
